@@ -1,0 +1,4 @@
+1. creamos una base de datos (jml48)
+2. clonamos el repositorio en la carpeta /web/
+  git clone https://github.com/fernandopal/jml48.git
+3. editamos el archivo configuration.php y cambiamos el usuario/contraseña de mysql
